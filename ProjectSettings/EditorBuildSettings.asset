@@ -6,14 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Audio Lab 4.2.unity
+    path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0b16b41caf2c9d04b909a1c38ef95850,
-      type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e936e491446d3014a8e7aa0ebd9974db,
-      type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d6ec732ed3649bc4dae6b86d3fb11b63,
-      type: 2}
-    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: ef0167c608923ce478c447309afafd34,
-      type: 2}
+  m_configObjects: {}
